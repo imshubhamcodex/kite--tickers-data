@@ -1,0 +1,3 @@
+user_id: CE2229
+password: qzpm@#alsk
+enctoken: 6rTbms5SlOehptsJN5fCq5WHLWuui0YBy7gCYcJFYETotPj6iSb+FXPESfLBkR7hhUMXLnu1bY+gsldyLQ5VNp6NJHXCQyawuqF0lDj8JwAjP7Qy+obL9Q==
